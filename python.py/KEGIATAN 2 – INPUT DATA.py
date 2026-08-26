@@ -1,0 +1,13 @@
+nama = input("Masukkan nama: ")
+kelas = input("Masukkan kelas: ")
+umur = input("Masukkan umur: ")
+jurusan = input("Masukkan jurusan: ")
+hobi = input("Masukkan hobi: ")
+
+print(" ========================")
+print("Nama   :", nama)
+print("kelas  :", kelas)
+print("berumur:", umur)
+print("jurusan:", jurusan)
+print("Hobi   :", hobi)
+print(" ========================")
